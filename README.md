@@ -53,6 +53,12 @@ Kurumsal denetim süreçlerini yönetmek için tasarlanmış kapsamlı bir web u
 - Görev ve denetim istatistikleri
 - Takım üyesi sayısı
 
+## Giriş Bilgileri (Demo Hesabı)
+
+```
+Email: yunus@demo.com
+Şifre: 123
+```
 
 ### İlk Giriş Adımları
 
@@ -139,3 +145,20 @@ npm run build
 - **Documents**: Belgeler
 - **Profile**: Profil ayarları
 
+## API Endpoint'leri
+
+### Edge Functions
+
+- `POST /functions/v1/create-demo-user` - Demo hesabı oluşturma
+
+## Katkıda Bulunma
+
+Katkılar memnuniyetle karşılanır. Lütfen bir PR açmadan önce bir issue oluşturunuz.
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır.
+
+## Destek
+
+Sorunlar veya sorularınız için lütfen bir issue açınız.
